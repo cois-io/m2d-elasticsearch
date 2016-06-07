@@ -1,0 +1,13 @@
+{
+    "name": "cois-io/m2d-elasticsearch",
+    "description": "ElasticSearch for Magento 2 ✨ ElasticSuite docker build",
+    "type": "m2d-build",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Francois Raubenheimer",
+            "email": "fran@cois.io"
+        }
+    ],
+    "require": {}
+}
